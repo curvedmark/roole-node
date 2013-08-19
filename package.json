@@ -1,0 +1,28 @@
+{
+  "name": "roole-node",
+  "version": "0.1.0",
+  "description": "Node utility functions for the Roole language",
+  "main": "lib/Node.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curvedmark/roole-node.git"
+  },
+  "keywords": [
+    "roole",
+    "util",
+    "utility",
+    "node"
+  ],
+  "author": "Glen Huang <curvedmark@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curvedmark/roole/issues"
+  },
+  "dependencies": {
+    "roole-error": "*"
+  }
+}
