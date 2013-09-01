@@ -4,8 +4,7 @@
   "description": "Node utility functions for the Roole language",
   "main": "lib/Node.js",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "repository": {
     "type": "git",
