@@ -1,6 +1,6 @@
 {
   "name": "roole-node",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Node utility functions for the Roole language",
   "main": "lib/Node.js",
   "directories": {
