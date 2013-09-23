@@ -22,7 +22,7 @@
     "url": "https://github.com/curvedmark/roole/issues"
   },
   "dependencies": {
-    "roole-error": "*",
+    "roole-error": "0.1.x",
     "intersperse": "1.x"
   }
 }
