@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "roole-error": "0.1.x",
-    "intersperse": "1.x"
+    "intersperse": "1.x",
+    "roole-parser": "0.12.x"
   }
 }
